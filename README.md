@@ -1,7 +1,7 @@
 # Primer proyecto TypeScript
 ### MongoDB
 
-Primer proyecto de TypeScript donde usaremos '[node.js](https://nodejs.org')'
+Primer proyecto de TypeScript donde usaremos `[node.js](https://nodejs.org')`
 
 # Código 🔎
 
