@@ -1,15 +1,17 @@
 # Primer proyecto TypeScript
 ### MongoDB
 
-Primer proyecto de TypeScript donde usaremos `[node.js](https://nodejs.org')`
+Primer proyecto de TypeScript donde usaremos [node.js](https://nodejs.org')
 
 # Código 🔎
 
-Probaremos distintos archivos de `TypeScript`:
+Probaremos distintos archivos de `TypeScript` desde el `index.ts`. Usaremos ese archivo como índice, generará un menu donde podamos elegir a cual archivo queremos acceder.
+```
 *[ejercicio01.js](https://github.com/SanchezGarciaEmilio/22-09-2021_Practica2/blob/main/src/ejercicio01.js)*
 *[ejercicio01.ts](https://github.com/SanchezGarciaEmilio/22-09-2021_Practica2/blob/main/src/ejercicio01.ts)*
 *[ejercicio01.js](https://github.com/SanchezGarciaEmilio/22-09-2021_Practica2/blob/main/src/ejercicio02.js)*
 *[ejercicio02.ts](https://github.com/SanchezGarciaEmilio/22-09-2021_Practica2/blob/main/src/ejercicio02.ts)*
+```
 
 
 # Documentación 📝
