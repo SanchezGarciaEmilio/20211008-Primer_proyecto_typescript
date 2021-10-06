@@ -5,18 +5,22 @@ Primer proyecto de TypeScript donde usaremos [node.js](https://nodejs.org')
 
 # Código 🔎
 
-Probaremos distintos archivos de `TypeScript` desde el `index.ts`. Usaremos ese archivo como índice, generará un menu donde podamos elegir a cual archivo queremos acceder.
+Probaremos distintos archivos de `TypeScript` desde el `index.ts`. Usaremos ese archivo como índice, generará un menu donde podamos elegir a cual archivo queremos acceder. Encontraremos estas tres funciones:
 ```
-*[ejercicio01.js](https://github.com/SanchezGarciaEmilio/22-09-2021_Practica2/blob/main/src/ejercicio01.js)*
-*[ejercicio01.ts](https://github.com/SanchezGarciaEmilio/22-09-2021_Practica2/blob/main/src/ejercicio01.ts)*
-*[ejercicio01.js](https://github.com/SanchezGarciaEmilio/22-09-2021_Practica2/blob/main/src/ejercicio02.js)*
-*[ejercicio02.ts](https://github.com/SanchezGarciaEmilio/22-09-2021_Practica2/blob/main/src/ejercicio02.ts)*
+multiple_numbers
+year_calculator
+dni_maker
+```
+Encontraremos estos archivos en la carpeta *[util](https://github.com/SanchezGarciaEmilio/20211008-Primer_proyecto_typescript/tree/main/src/util)*(util) dentro del *[source](https://github.com/SanchezGarciaEmilio/20211008-Primer_proyecto_typescript/tree/main/src)*(src). Usaremos adicionalmente otros archivos para el correcto funcionamiento:
+```
+input
+menu
 ```
 
 
 # Documentación 📝
 
-En la carpeta de *[documentation](https://github.com/SanchezGarciaEmilio/22-09-2021_Practica2/tree/main/doc)*(doc) hemos incluido las nociones teóricas necesarias para este proyecto en el archivo del *[manual de node](https://github.com/SanchezGarciaEmilio/22-09-2021_Practica2/blob/main/doc/Manual_node.pdf)*.
+En la carpeta de *[documentation](https://github.com/SanchezGarciaEmilio/20211008-Primer_proyecto_typescript/tree/main/doc)*(doc) hemos incluido las nociones teóricas necesarias para este proyecto en el archivo del *[manual de node](https://github.com/SanchezGarciaEmilio/20211008-Primer_proyecto_typescript/blob/main/doc/Manual_node.pdf)*.
 
 
 
