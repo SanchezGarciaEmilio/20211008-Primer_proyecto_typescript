@@ -1,5 +1,5 @@
 # Primer proyecto TypeScript
-### MongoDB
+### Node.js
 
 Primer proyecto de TypeScript donde usaremos [node.js](https://nodejs.org)
 
@@ -11,7 +11,7 @@ multiple_numbers
 year_calculator
 dni_maker
 ```
-Encontraremos estos archivos en la carpeta *[util](https://github.com/SanchezGarciaEmilio/20211008-Primer_proyecto_typescript/tree/main/src/util)*(util) dentro del *[source](https://github.com/SanchezGarciaEmilio/20211008-Primer_proyecto_typescript/tree/main/src)*(src). Usaremos adicionalmente otros archivos para el correcto funcionamiento:
+Encontraremos estos archivos en la carpeta *[util](https://github.com/SanchezGarciaEmilio/20211008-Primer_proyecto_typescript/tree/main/src/util)* dentro del *[source](https://github.com/SanchezGarciaEmilio/20211008-Primer_proyecto_typescript/tree/main/src)*(src). Usaremos adicionalmente otros archivos para el correcto funcionamiento:
 ```
 input
 menu
